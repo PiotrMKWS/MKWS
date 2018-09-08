@@ -1,0 +1,4 @@
+For C2H6:1 O2:3.5 N2: 13.6 with P1 = 1.00 atm & T1 = 300.00 K using gri30_highT.cti
+CJ Speed is 1793.26 m/s
+The CJ State is 17.62 atm & 2789.50 K
+The sound speeds are: a_frozen = 1025.93 m/s & a_equilibrium = 991.99 m/s
